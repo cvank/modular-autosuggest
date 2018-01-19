@@ -1,3 +1,3 @@
-module autosuggest.refactored.suggest {
+module autosuggest.refactored.suggest.ui {
 
 }
