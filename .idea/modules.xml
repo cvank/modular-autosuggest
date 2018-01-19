@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/initial/initial.iml" filepath="$PROJECT_DIR$/initial/initial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modular-autosuggest.iml" filepath="$PROJECT_DIR$/modular-autosuggest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/refactored/refactored.iml" filepath="$PROJECT_DIR$/refactored/refactored.iml" />
+      <module fileurl="file://$PROJECT_DIR$/refactored/refactored-suggest/refactored-suggest.iml" filepath="$PROJECT_DIR$/refactored/refactored-suggest/refactored-suggest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/refactored/refactored-ui/refactored-ui.iml" filepath="$PROJECT_DIR$/refactored/refactored-ui/refactored-ui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/refactored/refactoredsuggestapi.iml" filepath="$PROJECT_DIR$/refactored/refactoredsuggestapi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/initial/suggest/suggest.iml" filepath="$PROJECT_DIR$/initial/suggest/suggest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/initial/ui/ui.iml" filepath="$PROJECT_DIR$/initial/ui/ui.iml" />
+    </modules>
+  </component>
+</project>

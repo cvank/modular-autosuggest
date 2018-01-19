@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="refactored-suggest" />
+        <module name="refactored-ui" />
+        <module name="suggest" />
+        <module name="ui" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="initial" target="1.9" />
+      <module name="modular-autosuggest" target="1.9" />
+      <module name="refactored" target="1.9" />
+      <module name="refactored-suggest" target="1.9" />
+      <module name="refactored-ui" target="1.9" />
+      <module name="suggest" target="1.9" />
+      <module name="ui" target="1.9" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

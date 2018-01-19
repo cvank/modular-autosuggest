@@ -1,0 +1,3 @@
+module autosuggest.refactored.suggest {
+
+}
