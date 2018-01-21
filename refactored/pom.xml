@@ -16,5 +16,6 @@
     <module>refactored-fuzy-jaro</module>
     <module>refactored-fuzy-levenshtein</module>
     <module>refactored-prefix-api</module>
+    <module>refactored-ui-better</module>
   </modules>
 </project>

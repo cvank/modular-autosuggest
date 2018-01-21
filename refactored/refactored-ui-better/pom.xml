@@ -9,9 +9,9 @@
         <version>0.0.1-SNAPSHOT</version>
     </parent>
     <groupId>com.tbc.java9</groupId>
-    <artifactId>refactored-prefix-api</artifactId>
+    <artifactId>refactored-ui-better</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>refactored-prefix-api</name>
+    <name>refactored-ui-better</name>
     <url>http://maven.apache.org</url>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
